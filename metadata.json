@@ -1,0 +1,5 @@
+{
+  "name": "AI Terminal OS",
+  "description": "A simulated desktop environment with a futuristic, dark-mode UI where users can interact with an AI-powered terminal, manage windows, and view system stats.",
+  "requestFramePermissions": []
+}
